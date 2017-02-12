@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "834765206333",
+    "firebase_url": "https://prueba1-7312f.firebaseio.com",
+    "project_id": "prueba1-7312f",
+    "storage_bucket": "prueba1-7312f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834765206333:android:e8f8925cbfe203a6",
+        "android_client_info": {
+          "package_name": "mx.razorblade.test1firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834765206333-i12kvleqm0ha2mjj87p08ht34er1apcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fpZYSoKVWHcGJCpeOX7J9P9l5dv2j3U"
+        },
+        {
+          "current_key": "AIzaSyBC_f4wpkJuN39lBO5VwcxSopSRtcIjmIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834765206333-i12kvleqm0ha2mjj87p08ht34er1apcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

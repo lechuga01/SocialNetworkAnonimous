@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test1Firebase</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_wall_posts">WallPosts</string>
+</resources>
